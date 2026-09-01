@@ -1,0 +1,19 @@
+{
+  "itemGroup.TestTab": "TestTab",
+  "itemGroup.create_gear": "Example Mod Tab",
+  "block.create_gear.example_block": "Example Block",
+  "item.create_gear.example_item": "Example Item",
+
+  "create_gear.configuration.title": "Create:Gear Configs",
+  "create_gear.configuration.section.create_gear.common.toml": "Create:Gear Configs",
+  "create_gear.configuration.section.create_gear.common.toml.title": "Create:Gear Configs",
+  "create_gear.configuration.items": "Item List",
+  "create_gear.configuration.logDirtBlock": "Log Dirt Block",
+  "create_gear.configuration.magicNumberIntroduction": "Magic Number Text",
+  "create_gear.configuration.magicNumber": "Magic Number",
+
+  "block.create_gear.helical_gear": "helical_gear",
+  "create_gear.ponder.helical_gear.header": "Helical gear drive",
+  "create_gear.ponder.helical_gear.text_1": "When the teeth of two perpendicular shafts mesh, power can be transmitted. As for the rotation direction…"
+
+}

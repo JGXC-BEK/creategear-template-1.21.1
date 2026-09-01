@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=y,waterlogged=false": {"model": "create_gear:block/helical_gear"},
+    "axis=y,waterlogged=true": {"model": "create_gear:block/helical_gear"},
+    "axis=x,waterlogged=false": {"model": "create_gear:block/helical_gear","x": 90, "y": 90},
+    "axis=x,waterlogged=true": {"model": "create_gear:block/helical_gear","x": 90, "y": 90},
+    "axis=z,waterlogged=false": {"model": "create_gear:block/helical_gear","x": 90, "y": 180},
+    "axis=z,waterlogged=true": {"model": "create_gear:block/helical_gear","x": 90, "y": 180}
+  }
+}
